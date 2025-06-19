@@ -1,0 +1,48 @@
+/* Fonte */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+    background: linear-gradient(135deg, #ffdde1, #ee9ca7); /* degradê rosa claro */
+    color: #333;
+}
+
+/* Container centralizado */
+.container {
+    max-width: 800px;
+    background-color: #fff;
+    margin: 50px auto;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
+
+/* Título principal */
+#titulo-principal {
+    text-align: center;
+    font-size: 2.5rem;
+    color: #c71585; /* rosa escuro */
+    margin-bottom: 20px;
+}
+
+/* Texto principal */
+#texto-menusuperior {
+    text-align: justify;
+    font-size: 1.1rem;
+    line-height: 1.8;
+}
+
+/* Subtítulo */
+#subtitulo2 {
+    text-align: center;
+    font-size: 1.8rem;
+    color: #8b0000;
+    margin-top: 40px;
+}
+
+/* Lista de interesses */
+#texto2 {
+    text-align: center;
+    font-size: 1.1rem;
+    margin-top: 10px;
+}
